@@ -8,40 +8,40 @@ My name is Wladislaw Merezko.
 **Motto:** "Adde parvum parvo magnus acervus erit".
 
 
-*mobile* +380967010082
-*email* infinity89@gmail.com
-*web* http://blog.infinitylx.org.ua
+| *mobile* +380967010082
+| *email* infinity89@gmail.com
+| *web* http://blog.infinitylx.org.ua
 
 Qualification Summary
 ---------------------
 
 Operating System
-  |*Linux* OpenSuSE, Gentoo, Knoppix, Debian.
-  |*Microsoft WindowsTM* 2003, Server, Vista, System 7, 95, 98, 2000, XP(SP2, SP3)
+  | *Linux* OpenSuSE, Gentoo, Knoppix, Debian.
+  | *Microsoft WindowsTM* 2003, Server, Vista, System 7, 95, 98, 2000, XP(SP2, SP3)
 
 Programming language:
-  |*Functional* C, Java-Script, Lua
-  |*Object-Oriented* Python, Java (J2SE, J2ME), Groovy, C++
-  |*Shell-Scripts* Bourne Shell(BASH), m4
-  |*Assembler* AVR Atmel Assembler (for AT89)
-  |*Web* 2.0 HTML, CSS, YAML, XML (XSLT), JSON(BSON)
+  | *Functional* C, Java-Script, Lua
+  | *Object-Oriented* Python, Java (J2SE, J2ME), Groovy, C++
+  | *Shell-Scripts* Bourne Shell(BASH), m4
+  | *Assembler* AVR Atmel Assembler (for AT89)
+  | *Web* 2.0 HTML, CSS, YAML, XML (XSLT), JSON(BSON)
 
 Tools:
-  |*Administration* Nginx, Apache, MongoDB
-  |*Data-Base* MongoDB, PostgreSQL, MySQL, Oracle
-  |*Scientific* Maple, GNUPlot, Graphviz
-  |*Build Systems* ANT, Jenkins, make, cmake, qmake, automake, autoconf
+  | *Administration* Nginx, Apache, MongoDB
+  | *Data-Base* MongoDB, PostgreSQL, MySQL, Oracle
+  | *Scientific* Maple, GNUPlot, Graphviz
+  | *Build Systems* ANT, Jenkins, make, cmake, qmake, automake, autoconf
 
 Office Automation
   TeX, LaTeX, Lyx, TeXmacs, LibreOffice(OpenOffice), Microsoft OfficeTM
 
 Tech Competence:
-  |*Version Control Systems* git, svn, mercurial, bazaar
-  |*Compiler* javac, PyPy, GNU GCC 4.xx, GNU GDB
-  |???Python generators, iterators concepts, OOP
-  |*Java* 2 SE swing, threads, applets, jdbc, hibernate, play
-  |*Architecture* Client/server architecture type programming for tcp-ip protocol’s family and webservices
-  |*Web services* Django, Flask, Pylons, intershop.enfinity
+  | *Version Control Systems* git, svn, mercurial, bazaar
+  | *Compiler* javac, PyPy, GNU GCC 4.xx, GNU GDB
+  | ???Python generators, iterators concepts, OOP
+  | *Java* 2 SE swing, threads, applets, jdbc, hibernate, play
+  | *Architecture* Client/server architecture type programming for tcp-ip protocol’s family and webservices
+  | *Web services* Django, Flask, Pylons, intershop.enfinity
 
 Experience
 ----------
@@ -49,10 +49,10 @@ SysIQ
   02.2011–present
   
   :Java e-commerce developer:
-  |*Gumps* — is huge on-line store, leader in direct-to-you shopping with long history.
-  |**Used technologies:** server side based on enfinity intershop, Oracle as database; client side made with jQuery library. Ant, jsp, jenkins.
-  |**My role:** Customer support of Gumps online store, bug-fixing and improvements, implementing continues integrating in development process.
-  |**Whole project:** 2 developers.
+    | *Gumps* — is huge on-line store, leader in direct-to-you shopping with long history.
+    | **Used technologies:** server side based on enfinity intershop, Oracle as database; client side made with jQuery library. Ant, jsp, jenkins.
+    | **My role:** Customer support of Gumps online store, bug-fixing and improvements, implementing continues integrating in development process.
+    | **Whole project:** 2 developers.
 
 DjangoStars
   02.2010–12.2010
