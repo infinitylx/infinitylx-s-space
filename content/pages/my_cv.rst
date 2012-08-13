@@ -5,12 +5,11 @@ Curriculum vitae
 
 My name is Wladislaw Merezko.
 
-**Motto:** "Adde parvum parvo magnus acervus erit".
+ | **Motto:** "Adde parvum parvo magnus acervus erit".
+ | *mobile* +380967010082
+ | *email* infinity89@gmail.com
 
-
-| *mobile* +380967010082
-| *email* infinity89@gmail.com
-| *web* http://blog.infinitylx.org.ua
+*web* http://blog.infinitylx.org.ua
 
 Qualification Summary
 ---------------------
