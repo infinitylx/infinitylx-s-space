@@ -8,38 +8,24 @@ My name is *Wladislaw Merezko*.
 
 *Motto:* "Adde parvum parvo magnus acervus erit".
 
-*mobile* +380967010082
-
-*email* infinity89@gmail.com
-
-*web* http://blog.infinitylx.org.ua
-
 Qualification Summary
 ---------------------
 
-Operating System
+Operating System::
   *Linux* OpenSuSE, Gentoo, Knoppix, Debian.
-  
   *Microsoft WindowsTM* 2003, Server, Vista, System 7, 95, 98, 2000, XP(SP2, SP3)
 
-Programming language:
+Programming language::
   *Functional* C, Java-Script, Lua
-  
   *Object-Oriented* Python, Java (J2SE, J2ME), Groovy, C++
-  
   *Shell-Scripts* Bourne Shell(BASH), m4
-  
   *Assembler* AVR Atmel Assembler (for AT89)
-  
   *Web* 2.0 HTML, CSS, YAML, XML (XSLT), JSON(BSON)
 
-Tools:
+Tools::
   *Administration* Nginx, Apache, MongoDB
-  
   *Data-Base* MongoDB, PostgreSQL, MySQL, Oracle
-  
   *Scientific* Maple, GNUPlot, Graphviz
-  
   *Build Systems* ANT, Jenkins, make, cmake, qmake, automake, autoconf
 
 Office Automation
@@ -167,13 +153,10 @@ Thesis
   Computer system of wireless identification.
 
 **2001–2005** University: Electronic Devices technician school in Vinnitsa.
-
-Degree
-  Bachelor degree in radio electronics.
-Thesis
-  Design of a digital radio receiver, Controlled with a personal computer.
-Speciality 
- Production of Radio devices.
+::
+  Degree Bachelor degree in radio electronics.
+  Thesis Design of a digital radio receiver, Controlled with a personal computer.
+  Speciality Production of Radio devices.
 
 Additional Education
  - Coursera SaaS, CS101, Cryptography
@@ -182,12 +165,10 @@ Additional Education
 
 Languages
 ---------
-
-*English* Advanced level Speak, write.
-
-*Danish* Basic level Just begin to learn.
-
-*Polish* Advanced level Free
+::
+  *English* Advanced level Speak, write.
+  *Danish* Basic level Just begin to learn.
+  *Polish* Advanced level Free
 
 Interests
 ---------
