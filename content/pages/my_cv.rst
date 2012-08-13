@@ -12,21 +12,21 @@ Qualification Summary
 ---------------------
 
 Operating System::
-  *Linux* OpenSuSE, Gentoo, Knoppix, Debian.
-  *Microsoft WindowsTM* 2003, Server, Vista, System 7, 95, 98, 2000, XP(SP2, SP3)
+ - *Linux* OpenSuSE, Gentoo, Knoppix, Debian.
+ - *Microsoft WindowsTM* 2003, Server, Vista, System 7, 95, 98, 2000, XP(SP2, SP3)
 
 Programming language::
-  *Functional* C, Java-Script, Lua
-  *Object-Oriented* Python, Java (J2SE, J2ME), Groovy, C++
-  *Shell-Scripts* Bourne Shell(BASH), m4
-  *Assembler* AVR Atmel Assembler (for AT89)
-  *Web* 2.0 HTML, CSS, YAML, XML (XSLT), JSON(BSON)
+ - *Functional* C, Java-Script, Lua
+ - *Object-Oriented* Python, Java (J2SE, J2ME), Groovy, C++
+ - *Shell-Scripts* Bourne Shell(BASH), m4
+ - *Assembler* AVR Atmel Assembler (for AT89)
+ - *Web* 2.0 HTML, CSS, YAML, XML (XSLT), JSON(BSON)
 
 Tools::
-  *Administration* Nginx, Apache, MongoDB
-  *Data-Base* MongoDB, PostgreSQL, MySQL, Oracle
-  *Scientific* Maple, GNUPlot, Graphviz
-  *Build Systems* ANT, Jenkins, make, cmake, qmake, automake, autoconf
+ - *Administration* Nginx, Apache, MongoDB
+ - *Data-Base* MongoDB, PostgreSQL, MySQL, Oracle
+ - *Scientific* Maple, GNUPlot, Graphviz
+ - *Build Systems* ANT, Jenkins, make, cmake, qmake, automake, autoconf
 
 Office Automation
   TeX, LaTeX, Lyx, TeXmacs, LibreOffice(OpenOffice), Microsoft OfficeTM
@@ -123,40 +123,26 @@ Non-commercial projects:
 
 Personal Information
 --------------------
-
-Born 1986-03-10 in city of Vinnitsa.
-
-Marital status single.
-
-Addres
-  Orlovskaya 4-6/2 04060 Kiev Ukraine
-Web
-  site http://blog.infinitylx.org.ua
-Tel
-  +380967010082
-E-mail
-  infinity89@gmail.com
-Jabber
-  infinity89@gmail.com
-Skype
-  inf1nitylx
+ - Born 1986-03-10 in city of Vinnitsa.
+ - Marital status single.
+ - *Addres* Orlovskaya 4-6/2 04060 Kiev Ukraine
+ - *Web* site http://blog.infinitylx.org.ua
+ - *Tel* +380967010082
+ - *E-mail* infinity89@gmail.com
+ - *Jabber* infinity89@gmail.com
+ - *Skype* inf1nitylx
 
 Education
 ---------
 **2005–2009** National Technical University in Vinnitsa.
-
-Speciality
-  Design of electronic devices.
-Degree
-  Master degree in design of electronic devices.
-Thesis
-  Computer system of wireless identification.
+ - Speciality Design of electronic devices.
+ - Degree Master degree in design of electronic devices.
+ - Thesis Computer system of wireless identification.
 
 **2001–2005** University: Electronic Devices technician school in Vinnitsa.
-::
-  Degree Bachelor degree in radio electronics.
-  Thesis Design of a digital radio receiver, Controlled with a personal computer.
-  Speciality Production of Radio devices.
+ - Degree Bachelor degree in radio electronics.
+ - Thesis Design of a digital radio receiver, Controlled with a personal computer.
+ - Speciality Production of Radio devices.
 
 Additional Education
  - Coursera SaaS, CS101, Cryptography
@@ -165,15 +151,14 @@ Additional Education
 
 Languages
 ---------
-::
-  *English* Advanced level Speak, write.
-  *Danish* Basic level Just begin to learn.
-  *Polish* Advanced level Free
+
+ - *English* Advanced level Speak, write.
+ - *Danish* Basic level Just begin to learn.
+ - *Polish* Advanced level Free
 
 Interests
 ---------
 
-Traveling Destination anywhere.
-
-Hacking Life hacking, computer hacking, solving puzzles. Also continues self improvements.
+ - Traveling Destination anywhere.
+ - Hacking Life hacking, computer hacking, solving puzzles. Also continues self improvements.
 
