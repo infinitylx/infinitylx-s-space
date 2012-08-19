@@ -3,10 +3,11 @@ Curriculum vitae
 ================
 
 :author: Wladislaw Merezhko
+:lang: en
 
 My name is *Wladislaw Merezko*.
 
-My Motto is *\"Adde parvum parvo magnus acervus erit\"*. [1]_
+*\"Adde parvum parvo magnus acervus erit\"*. [1]_
 
 Personal Information
 --------------------
@@ -180,4 +181,4 @@ Interests
 
 Traveling Destination anywhere. Hacking Life hacking, computer hacking, solving puzzles. Also continues self improvements.
 
-.. [1] from latin this mean ...
+.. [1] From Ovid: "Adde parvum parvo magnus acervus erit," which means, "By adding little to little there will be a great heap." Which i think is applying to modern programming. Where you just bring together different component and get some thing new.
