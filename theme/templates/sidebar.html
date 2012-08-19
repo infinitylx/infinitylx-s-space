@@ -25,7 +25,7 @@
 </li>
 {% endfor %}
 
-<li class="nav-header"><h4><i class="icon-tags icon-large"></i>Tags</h4></li>
+<li class="nav-header"><a href="{{ SITEURL }}/tags.html"><h4><i class="icon-tags icon-large"></i>Tags</h4></a></li>
 {% for tag in tag_cloud %}
 <li class="tag-{{ tag.1 }}">
     <a href="{{ SITEURL }}/{{ tag.0.url }}">
