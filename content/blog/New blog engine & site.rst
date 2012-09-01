@@ -1,10 +1,11 @@
-New blog engine & site.
-=======================
+New blog engine and site.
+=============================
 
-:tags: thats, awesome
-:category: yeah
-:author: Alexis Metaireau
+:tags: python, awesome
+:category: blog
+:author: Wladislaw Merezhko
+:lang: en
 
-Trying to switch to rst-blog from ... but found that it not fit my requirements.
+Trying to switch to rst-blog from posterious spaces, but found that it not fit my requirements.
 
-So I just simple switch to pelicatn.
+So, after some investigation, I found this awesome and simple static blog generator called `pelicatn <http://pelican.notmyidea.org/>`_.
