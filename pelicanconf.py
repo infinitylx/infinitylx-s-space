@@ -3,7 +3,7 @@
 
 AUTHOR = u"Wladislaw Merezhko"
 SITENAME = u"Infinity's space!"
-SITEURL = 'http://blog.infinitylx.org.ua'
+SITEURL = 'http://infinitylx.org.ua'
 PDF_GENERATOR = False  # FIXME: found why this is doesn work
 FEED_ATOM = 'feeds/all.atom.xml'
 FEED_RSS = 'feeds/all.rss.xml'
