@@ -1,7 +1,7 @@
 About ItJam <2012>
 ==================
 
-:tags: conference, alpha-centavra
+:tags: conference, alpha-centauri
 :category: blog
 :author: Wladislaw Merezhko
 :date: 2012-09-02
