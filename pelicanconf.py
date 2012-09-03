@@ -4,7 +4,7 @@
 AUTHOR = u"Wladislaw Merezhko"
 SITENAME = u"Infinity's space!"
 SITEURL = 'http://blog.infinitylx.org.ua'
-PDF_GENERATOR = False # FIXME: found why this is doesn work
+PDF_GENERATOR = False  # FIXME: found why this is doesn work
 FEED_ATOM = 'feeds/all.atom.xml'
 FEED_RSS = 'feeds/all.rss.xml'
 TIMEZONE = 'Europe/Kiev'
@@ -30,5 +30,6 @@ DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["pictures", "images"]
 DEFAULT_CATEGORY = 'blog'
 TYPOGRIFY = True
-RELATIVE_URLS = True  # False - only for prod mode
+RELATIVE_URLS = False  # False - only for prod mode
 TWITTER_USERNAME = "infinitylX"
+GOOGLE_ANALYTICS = "UA-34537389-1"
