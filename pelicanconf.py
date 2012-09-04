@@ -33,3 +33,4 @@ TYPOGRIFY = True
 RELATIVE_URLS = False  # False - only for prod mode
 TWITTER_USERNAME = "infinitylX"
 GOOGLE_ANALYTICS = "UA-34537389-1"
+YANDEX_METRYKA = True
