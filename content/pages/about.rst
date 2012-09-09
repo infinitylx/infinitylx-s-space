@@ -15,4 +15,12 @@ Another side of interests of mine is traveling. You can find alot about my trave
 
 There is two list: one is what i like and other is what i hate, alos there is a list of things to achieve.
 
-Also you can *hire* me. You can read and download my `CV in pdf </images/cv_WladislawMerezhko.pdf>`_.
+Also you can *hire* me.
+
+.. raw:: html
+
+    You can <a href="/pages/curriculum-vitae.html">read <i class="icon-external-link"></i></a> and <a href="/static/images/cv_WladislawMerezhko.pdf">download <i class="icon-external-link"></i></a> my CV in pdf.
+
+This site proudly powered by `Pelican <http://pelican.notmyidea.org/>`_, which takes great advantage of `Python <http://python.org>`_.
+
+The theme is from `Bootstrap from Twitter <http://twitter.github.com/bootstrap/>`_, and `Font-Awesome <http://fortawesome.github.com/Font-Awesome/>`_, thanks!

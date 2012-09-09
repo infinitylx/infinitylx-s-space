@@ -5,7 +5,7 @@ Curriculum vitae
 :author: Wladislaw Merezhko
 :lang: en
 
-My name is *Wladislaw Merezko*.
+My name is *Wladislaw Merezko*. You can `download </images/cv_WladislawMerezhko.pdf>`_ my CV in pdf.
 
 *\"Adde parvum parvo magnus acervus erit\"*. [1]_
 
@@ -26,13 +26,21 @@ Marital status single.
 Qualification Summary
 ---------------------
 
-Operating System
-  *Linux* OpenSuSE, Gentoo, Knoppix, Debian.
+About
+  I'm passionate about programming in python. I'm good at integrating different components and getting the best results from it.
 
-  *Microsoft WindowsTM* 2003, Server, Vista, System 7, 95, 98, 2000, XP(SP2, SP3)
+  Also, I'm a team player and like to organize team work - from complete integration of best practices of work flows with DCVS, continues integration, code review till automatic build process and running unit, and system tests. I fully possess concepts of OOP and functional programming and like to mix them for better performance.
+
+  My technical degree gives me full understanding about how computers work and, coz of this, I can optimize product best way on all steps creating it.
+  And by the way I have two years of legacy code support.
+
+Operating System
+  *Linux* OpenSuSE, Gentoo, Debian.
+
+  *Microsoft WindowsTM* System 7
 
 Programming language
-  *Functional* C, Java-Script, Lua
+  *Functional* C, Java-Script, CoffeScript, Lua
 
   *Object-Oriented* Python, Java (J2SE, J2ME), Groovy, C++
 
@@ -40,7 +48,7 @@ Programming language
 
   *Assembler* AVR Atmel Assembler (for AT89)
 
-  *Web* 2.0 HTML, CSS, YAML, XML (XSLT), JSON(BSON)
+  *Web* 2.0 HTML5, CSS3, YAML, XML (XSLT), JSON(BSON)
 
 Tools
   *Administration* Nginx, Apache, MongoDB
@@ -49,23 +57,20 @@ Tools
 
   *Scientific* Maple, GNUPlot, Graphviz
 
-  *Build Systems* ANT, Jenkins, make, cmake, qmake, automake, autoconf
+  *Build Systems* ANT, Jenkins, make, Fabric
 
 Office Automation
   TeX, LaTeX, Lyx, TeXmacs, LibreOffice(OpenOffice), Microsoft OfficeTM
 
-Tech Competence:
-  *Version Control Systems* git, svn, mercurial, bazaar
+  *Version Control Systems* git (`git-flow <http://nvie.com/posts/a-successful-git-branching-model/>`_), svn, mercurial, bazaar
 
   *Compiler* javac, PyPy, GNU GCC 4.xx, GNU GDB
 
-  ???Python generators, iterators concepts, OOP
+  *Concepts* Python generators, iterators concepts, OOP, common patterns
 
   *Java* 2 SE swing, threads, applets, jdbc, hibernate, play
 
-  *Architecture* Client/server architecture type programming for tcp-ip protocol’s family and webservices
-
-  *Web services* Django, Flask, Pylons, intershop.enfinity
+  *Web services* RESTful, Client side MVC, Django, Flask, Pylons, intershop.enfinity, apache.axis2
 
 Experience
 ----------
@@ -147,6 +152,7 @@ Wemaketraffic (WMT)
   **Whole project:** team – 3 developers.
 
 Non-commercial projects:
+ - New generation adboard. *Currently under heavy development.*
  - Python True password generator. Like mkpasswd.
  - Python CSV parser: update mysql db with data from csv file.
  - Java Arcanoid game: build on Java applet technology. Using Thread to draw and position balls.
@@ -172,13 +178,14 @@ Additional Education
 Languages
 ---------
 
-- *English* Advanced level Speak, write.
-- *Danish* Basic level Just begin to learn.
-- *Polish* Advanced level Free
+- *English* Advanced level. Speaking, writing.
+- *Polish* Advanced level. Fluent.
+- *Ukrainian* Advanced level. Native.
 
 Interests
 ---------
 
-Traveling Destination anywhere. Hacking Life hacking, computer hacking, solving puzzles. Also continues self improvements.
+Traveling: Destination anywhere. Hacking Life hacking, computer hacking, solving puzzles. Also continues self improvements.
 
 .. [1] From Ovid: "Adde parvum parvo magnus acervus erit," which means, "By adding little to little there will be a great heap." Which i think is applying to modern programming. Where you just bring together different component and get some thing new.
+
