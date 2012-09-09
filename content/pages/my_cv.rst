@@ -5,7 +5,7 @@ Curriculum vitae
 :author: Wladislaw Merezhko
 :lang: en
 
-My name is *Wladislaw Merezko*. You can `download </images/cv_WladislawMerezhko.pdf>`_ my CV in pdf.
+My name is *Wladislaw Merezko*. You can `download </static/images/cv_WladislawMerezhko.pdf>`_ my CV in pdf.
 
 *\"Adde parvum parvo magnus acervus erit\"*. [1]_
 
