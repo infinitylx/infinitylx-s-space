@@ -11,9 +11,8 @@ Like
 - `Apple <http://www.apple.com/>`_ computers.
 - .. raw:: html
 
-    <s>I think i like this posterous.</s>
-
-    Not any more. Coz it looks like they abandon it.
+    <p><s>I think i like this posterous.</s>
+    Not any more. Coz it looks like they abandon it.<p>
 
 
 - `Sublime text 2 <http://www.sublimetext.com/2>`_ - AWESOME text editor (for three major platform.)
