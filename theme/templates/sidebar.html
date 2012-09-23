@@ -26,13 +26,24 @@
 {% endfor %}
 
 <li class="nav-header"><a href="{{ SITEURL }}/tags.html"><h4><i class="icon-tags icon-large"></i>Tags</h4></a></li>
+<li>
+<div id="tags">
+  <ul>
 {% for tag in tag_cloud %}
-<li class="tag-{{ tag.1 }}">
-    <a href="{{ SITEURL }}/{{ tag.0.url }}">
-        <i class="icon-tag icon-large"></i>{{ tag.0 }}
-    </a>
-</li>
+    <li class="tag-{{ tag.1 }}">
+        <a href="{{ SITEURL }}/{{ tag.0.url }}">
+            <i class="icon-tag icon-large"></i>{{ tag.0 }}
+        </a>
+    </li>
 {% endfor %}
+  </ul>
+</div>
+<div id="myCanvasContainer">
+  <canvas width="250" height="250" id="myCanvas">
+    <p>Anything in here will be replaced on browsers that support the canvas element</p>
+  </canvas>
+</div>
+</li>
 
 {% include 'twitter_profile.html' %}
 {% include 'search_sidebar.html' %}

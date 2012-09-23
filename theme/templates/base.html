@@ -124,6 +124,30 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="{{ SITEURL }}/theme/js/jquery-1.7.2.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
+    <script src="{{ SITEURL }}/theme/js/jquery.tagcanvas.min.js"></script>
     <script src="http://kittycheck.com/js/inject.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        if(!$('#myCanvas').tagcanvas({
+          textColour: '#08c',
+          freezeActive: false,
+          outlineMethod: 'outline',
+          outlineColour: '#005580',
+          outlineThickness: 1,
+          activeCursor: 'pointer',
+          frontSelect: true,
+          wheelZoom: true,
+          shadow: '#09d',
+          shadowBlur: 3,
+          weight: true,
+          reverse: true,
+          depth: 0.8,
+          maxSpeed: 0.05
+        },'tags')) {
+          // something went wrong, hide the canvas container
+          $('#myCanvasContainer').hide();
+        }
+      });
+    </script>
   </body>
 </html>
