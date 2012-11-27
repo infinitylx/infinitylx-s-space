@@ -42,3 +42,5 @@ GITHUB_URL = 'https://github.com/infinitylx'
 GITHUB_POSITION = 'right'
 
 DISQUS_SITENAME = "infinitylxsspace"
+
+SHORT_MAIL = 'infinitylX@shortmail.com'
