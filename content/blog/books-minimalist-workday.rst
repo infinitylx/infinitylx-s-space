@@ -39,9 +39,5 @@ art of being minimalist" та його постами я і сам став пр
 круто.
 
 
-`Permalink`_
-
 .. _Эверетт Боуг: http://evbogue.com/
 .. _тут: http://mokeev.blogspot.com/2012/04/blog-post.html
-.. _Permalink: http://blog.infinitylx.org.ua/books-minimalist-workday
-
