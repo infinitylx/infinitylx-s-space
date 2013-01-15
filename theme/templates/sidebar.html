@@ -26,9 +26,9 @@
 {% endfor %}
 
 <li class="nav-header"><a href="{{ SITEURL }}/tags.html"><h4><i class="icon-tags icon-large"></i>Tags</h4></a></li>
-{# <li>
-<div id="tags">
-  <ul>#}
+<li>
+{#<div id="tags" class="hidden-desktop">#}
+  <ul>
 {% for tag in tag_cloud %}
     <li class="tag-{{ tag.1 }}">
         <a href="{{ SITEURL }}/{{ tag.0.url }}">
@@ -36,17 +36,18 @@
         </a>
     </li>
 {% endfor %}
-{#  </ul>
-</div>
+ </ul>
+{#</div>
 <div id="myCanvasContainer">
-  <canvas width="230" height="230" id="myCanvas">
+  <canvas width="230" height="230" id="myCanvas" class="visible-desktop">
     <p>Anything in here will be replaced on browsers that support the canvas element</p>
   </canvas>
-</div>
-</li>#}
+</div>#}
+</li>
 
-{% include 'twitter_profile.html' %}
+<li class="nav-header"><h4><i class="icon-envelope"></i> Contact me</h4></li>
 {% include 'shortmail.html' %}
+{% include 'twitter_profile.html' %}
 {% include 'search_sidebar.html' %}
 
 {% if SIDEBAR_CUSTOM %}

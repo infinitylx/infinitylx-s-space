@@ -9,6 +9,17 @@
     <meta name="kittycheck_rumble" content="true" />
     <meta name="kittycheck_position" content="top=60,right=60" />
 
+    <!-- Create relations for next and previous page.
+    Used when clicked ctr + left or right -->
+    {% if articles_page and articles_paginator.num_pages > 1 %}
+    {% set number = articles_page.previous_page_number() %}
+    {% if articles_page.has_next() %}
+    <link rel="next" href="{{ SITEURL }}/{{ page_name }}{{ articles_page.next_page_number() }}.html" id="NextLink" />
+    {% endif %}
+    {% if articles_page.has_previous() %}
+    <link rel="prev" href="{{ SITEURL }}/{{ page_name }}{{ number if number > 1 else '' }}.html" id="PrevLink" />
+    {% endif %}
+    {% endif %}
     <!-- Le styles -->
     <link rel="stylesheet" href="{{ SITEURL }}/theme/css/bootstrap.min.css" type="text/css" />
     <style type="text/css">
@@ -126,6 +137,23 @@
     <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
     <script src="{{ SITEURL }}/theme/js/jquery.tagcanvas.min.js"></script>
     <script src="http://kittycheck.com/js/inject.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+      function NavigateThrough(event) {
+        switch (event.keyCode ? event.keyCode : event.which ? event.which : null)
+        {
+          case 0x25:
+            link = document.getElementById ('PrevLink');
+            break;
+          case 0x27:
+            link = document.getElementById ('NextLink');
+            break;
+        }
+        if (link && link.href) document.location = link.href;
+      }
+      document.onkeydown = NavigateThrough;
+    });
+    </script>
     {#<script type="text/javascript">
       $(document).ready(function() {
         if(!$('#myCanvas').tagcanvas({
