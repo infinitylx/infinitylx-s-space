@@ -25,5 +25,5 @@ Wlads Radio List:
 - `"Radio Złote Przeboje Klasyka Rocka" <http://fm.tuba.pl/stacja-radiowa/Z%C5%82ote+Przeboje+Klasyka+Rocka>`_
 - `"Heavy metal attack!" <http://www.heavymetalattack.pl/>`_
 - `"Radio Swiss Jazz" <http://www.radioswissjazz.ch/en>`_
-- `"Delta+ Alternative Max" <http://www.deltaradio.de/>`_. `Live stream <http://dir.xiph.org/listen/3960987/listen.m3u>`_
-- `"Wunschradio Rock Kanal" <http://www.wunschradio.de/rock.html>`_
+- `"Delta+ Alternative Max" <http://www.deltaradio.de/>`_.
+- `"Sky dot fm" <http://www.sky.fm>`_
