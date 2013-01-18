@@ -7,6 +7,8 @@ Like
 - Panasonic PR-HG20 - найкращі навушники у категорії ціна якість. Дощ, сніг, -20С - все це та багато іншого вони пройшли разом зі мною, і продовжують приноси насолоду під час прослуховування музики.
 - `OpenSuSE <http://www.opensuse.org/en/>`_ - після тривалого використання `Gentoo <http://www.gentoo.org/>`_, я перейшов до чогось простішого. Поки, все влаштовує. Gentoo продовжую любити, але на відстані.
 - `Git <http://git-scm.com/>`_ - greates version control system ever.
+- `Github <http://github.com>`_ - awesome.
+- `Cloud 9 <http://c9.io>`_ - awesome cloud source editor, github integrated. It's almost like a dream.
 - `Radio-t <http://radio-t.com/>`_ podcast.
 - `Apple <http://www.apple.com/>`_ computers.
 - .. raw:: html
