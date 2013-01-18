@@ -76,10 +76,15 @@ Office Automation
 Experience
 ----------
 
-SysIQ
-  02.2011–present
+SoftServe
+  10.2012-present
 
-  Java e-commerce developer
+  Python developer.
+
+SysIQ
+  02.2011–9.2012
+
+  *Java e-commerce developer*
 
   .. raw:: html
 
@@ -96,13 +101,15 @@ DjangoStars
 
   Python web developer
 
-  Different parts of DN.NO portal, Python, Django, jQuery, PostgreSQL.
+  *Different parts of DN.NO portal.*
 
   *DN Rubrick* is a advertisement board. DN Active Calendar – is Calendar with sport events.
 
   **Used technologies:** server side was written in Python with Django framework, Oracle as database; client side made with jQuery library.
 
-  **My role:** whole advertisement functionality, admin gui and user part. Whole project: 2 developers.
+  **My role:** whole advertisement functionality, admin gui and user part.
+
+  **Whole project:** 2 developers.
 
   .. raw:: html
 
@@ -119,9 +126,9 @@ Da.net.ua
 
   Python web developer
 
-  *Bulletin board system*, Python, Pylons, jQuery, PostgreSQL, XSLT.
+  *Bulletin board system.*
 
-  **Used technologies:** server side was written in Python with Pylons framework, PostgreSQL as database. Client side is strict xhtml with JQuery library.
+  **Used technologies:** server side was written in Python with Pylons framework, PostgreSQL as database, XSLT as template engine. Client side is strict xhtml with JQuery library.
 
   **My role:** whole lay out for user interface using xslt, and logging system based on repoze.who with repoze.what.
 
@@ -130,9 +137,11 @@ Da.net.ua
 Wemaketraffic (WMT)
   06.2008–08.2009
 
+  Python web developer
+
   .. raw:: html
 
-    <a href="http://www.tyre-shop.dk">"http://www.tyre-shop.dk <i class="icon-external-link"></i>"</a> - on-line shop.
+    <a href="http://www.tyre-shop.dk">"http://www.tyre-shop.dk <i class="icon-external-link"></i>"</a><em> - on-line shop.</em>
 
   **Used technologies:** server side was written in Python with Django framework, MySQL as database; client side made with jQuery library.
 
@@ -153,8 +162,7 @@ Wemaketraffic (WMT)
   **Whole project:** team – 3 developers.
 
 Non-commercial projects:
- - New generation adboard. *Currently under heavy development.*
- - Python True password generator. Like mkpasswd.
+ - Python True password generator. Like mkpasswd. SaaS.
  - Python CSV parser: update mysql db with data from csv file.
  - Java Arcanoid game: build on Java applet technology. Using Thread to draw and position balls.
  - Java XML parser: update mysql db with data from xml file.
@@ -162,14 +170,14 @@ Non-commercial projects:
 Education
 ---------
 **2005–2009** National Technical University in Vinnitsa.
- - Speciality Design of electronic devices.
- - Degree Master degree in design of electronic devices.
- - Thesis Computer system of wireless identification.
+ - *Speciality* Design of electronic devices.
+ - *Degree* Master degree in design of electronic devices.
+ - *Thesis* Computer system of wireless identification.
 
 **2001–2005** University: Electronic Devices technician school in Vinnitsa.
- - Degree Bachelor degree in radio electronics.
- - Thesis Design of a digital radio receiver, Controlled with a personal computer.
- - Speciality Production of Radio devices.
+ - *Degree* Bachelor degree in radio electronics.
+ - *Thesis* Design of a digital radio receiver, Controlled with a personal computer.
+ - *Speciality* Production of Radio devices.
 
 Additional Education
  - Coursera SaaS, CS101, Cryptography
