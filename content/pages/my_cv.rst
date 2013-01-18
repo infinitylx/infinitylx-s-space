@@ -79,7 +79,15 @@ Experience
 SoftServe
   10.2012-present
 
-  Python developer.
+  Python developer
+
+  *Different spam filtering solutions from Cisco.*
+
+  **Used technologies:** python, kyoro tycoon, mysql, multi threading,
+
+  **My role:** server side bug fixing, continues integration, refactoring, different improvements.
+
+  **Whole project:** 2-4 developers.
 
 SysIQ
   02.2011–9.2012
