@@ -1,5 +1,5 @@
 Title: Books: «Business Stripped Bare» 
-Date: 2010-12-03 10:20
+Date: 2013-01-30 11:20
 Tags: book, rtfm, howto
 Category: blog
 Author: Wladislaw Merezhko
