@@ -6,7 +6,8 @@ Curriculum vitae
 :lang: en
 :status: hidden
 
-My name is *Wladislaw Merezko*. You can `download </static/images/cv_WladislawMerezhko.pdf>`_ my CV in pdf.
+My name is *Wladislaw Merezko*. 
+You can `download </static/images/cv_WladislawMerezhko.pdf>`_ my CV in pdf.
 
 *\"Adde parvum parvo magnus acervus erit\"*. [1]_
 
@@ -17,8 +18,8 @@ Born 1986-03-10 in city of Vinnitsa.
 
 Marital status single.
 
-- *Addres* Orlovskaya 4-6/2 04060 Kiev Ukraine
-- *Web* site http://blog.infinitylx.org.ua
+- *Addres* Saharova 44/22 79012 Lviv Ukraine
+- *Web* site http://infinitylx.org
 - *Tel* +380967010082
 - *E-mail* infinity89@gmail.com
 - *Jabber* infinity89@gmail.com
