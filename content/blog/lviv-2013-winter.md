@@ -1,9 +1,9 @@
 Title: Lviv winter 2013
-Date: 2010-12-03 10:20
+Date: 2013-01-30 10:20
 Tags: alpha-centauri
 Category: blog
 Author: Wladislaw Merezhko
-Summary: Short version for index and feeds
+Summary: Скляні дерева у львові. Багато фоток.
 
 Ось як виглядають "скляні" дерева на солнці у Львові.
 
