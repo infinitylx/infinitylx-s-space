@@ -2,6 +2,7 @@ Title: Books: «Business Stripped Bare»
 Date: 2013-01-30 11:20
 Tags: book, rtfm, howto
 Category: blog
+Lang: ua
 Author: Wladislaw Merezhko
 Summary: У книзі розповідається про створенні і становлення "Virgin Group", яку ми бачимо сьогодні. Починаючи із продажу вінілових платівок і закінчуючи "Virgin Galactic". Розповідається про злети та падіння. Відкриваються деталі та зв'язки різних, здавалось би не пов'язаних між собою подій.
 
