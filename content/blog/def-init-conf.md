@@ -2,7 +2,6 @@ Title: Default initial configuration.
 Date: 2013-08-07 16:13
 Tags: rtfm, howto, config, alpha-centauri
 Category: blog
-status: draft
 Author: Wladislaw Merezhko
 Summary: Налаштування синхронізації конфігураційних файлів за допомогою bt_sync. P2P технології у дії. Законфігурувавши один раз - використовуй всюди.
 
