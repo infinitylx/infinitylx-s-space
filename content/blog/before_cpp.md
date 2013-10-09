@@ -2,6 +2,7 @@ Title: Learning Cpp.
 Date: 2013-10-09 17:20
 Tags: rtfm, howto, alpha-centauri, cpp
 Category: blog
+status: draft
 Author: Wladislaw Merezhko
 Summary: Після кількох нев
 
