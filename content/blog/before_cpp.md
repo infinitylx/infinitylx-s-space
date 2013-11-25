@@ -47,7 +47,9 @@ Part lll advanced
 
 Також, варто використовувати надбання сучасності у перегляді коду. Які надають змогу занотовувати коментарі до коду та вести дискусію, в разі необхідності.
 
-Такі сайти як [github.com](http://github.com), [bitbucket](http://bitbucket.org) та безліч інших дають змогу проводити перегляд коду.
+Такі сайти, як [github.com](http://github.com), [bitbucket](http://bitbucket.org) та безліч інших дають змогу проводити перегляд коду.
+
+Основою для вивчення синтаксису став [learncpp dot com](http://www.learncpp.com/). На ньому викладено досить не поганий та повний мануал. Також присутні і більше просунуті теми.
 
 І на закінчення хочу привести список книжок які планує прочитати:
 
@@ -55,5 +57,3 @@ Part lll advanced
 * [Thinking in C++](http://mindview.net/Books/TICPP/ThinkingInCPP2e.html)
 * [C++ for Real Programmers](http://www.amazon.com/C-Real-Programmers-Revised-Edition/dp/0120499428)
 
-[cpp](http://www.parashift.com/c++-faq-lite/)
-[learncpp dot com](http://www.learncpp.com/)
