@@ -21,3 +21,5 @@ Achieve
 - Ride bike
 - See north lights
 - Learn scuba diving
+- to see a Norwhal
+- to walk by the glacier 

@@ -33,7 +33,10 @@ About
   Also, I'm a team player and like to organize team work - from complete integration of best practices of work flows with DCVS, continues integration, code review till automatic build process and running unit, and system tests. I fully possess concepts of OOP and functional programming and like to mix them for better performance.
 
   My technical degree gives me full understanding about how computers work and, coz of this, I can optimize product best way on all steps creating it.
+  
   And by the way I have two years of legacy code support.
+  
+  In mean time i continue to work with RPI. In plans to build digital hous - with full control from tablet.
 
 Operating System
   *Linux* OpenSuSE, Gentoo, Debian.
@@ -41,7 +44,7 @@ Operating System
   *Microsoft WindowsTM* System 7
 
 Programming language
-  *Functional* C, Java-Script, CoffeScript, Lua
+  *Functional* C, Java-Script, CoffeScript, Lua, SQL
 
   *Object-Oriented* Python, Java (J2SE, J2ME), Groovy, C++
 
@@ -54,7 +57,7 @@ Programming language
 Tools
   *Administration* Nginx, Apache, MongoDB
 
-  *Data-Base* MongoDB, PostgreSQL, MySQL, Oracle
+  *Data-Base* MongoDB, PostgreSQL, MySQL, Oracle, SQLite, Sqlalchemy
 
   *Scientific* Maple, GNUPlot, Graphviz
 
@@ -71,7 +74,7 @@ Office Automation
 
   *Java* 2 SE swing, threads, applets, jdbc, hibernate, play
 
-  *Web services* RESTful, Client side MVC, Django, Flask, Pylons, intershop.enfinity, apache.axis2
+  *Web services* RESTful, Client side MVC, Django, Flask, Pylons, intershop.enfinity
 
 Experience
 ----------
@@ -83,7 +86,7 @@ SoftServe
 
   *Different spam filtering solutions from Cisco.*
 
-  **Used technologies:** python, kyoro tycoon, mysql, multi threading,
+  **Used technologies:** python, kyoto tycoon, mysql, multi threading,
 
   **My role:** server side bug fixing, continues integration, refactoring, different improvements.
 
@@ -170,6 +173,7 @@ Wemaketraffic (WMT)
   **Whole project:** team – 3 developers.
 
 Non-commercial projects:
+ - e-commerce as a service. Using python, postgresql, nginx.
  - Python True password generator. Like mkpasswd. SaaS.
  - Python CSV parser: update mysql db with data from csv file.
  - Java Arcanoid game: build on Java applet technology. Using Thread to draw and position balls.
@@ -202,7 +206,7 @@ Languages
 Interests
 ---------
 
-Traveling: Destination anywhere. Hacking Life hacking, computer hacking, solving puzzles. Also continues self improvements.
+Traveling: Destination anywhere. Life hacking, computer hacking, solving puzzles. Also continues self improvements.
 
 .. [1] From Ovid: "Adde parvum parvo magnus acervus erit," which means, "By adding little to little there will be a great heap." Which i think is applying to modern programming. Where you just bring together different component and get some thing new.
 

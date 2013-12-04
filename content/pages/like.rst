@@ -11,13 +11,10 @@ Like
 - `Cloud 9 <http://c9.io>`_ - awesome cloud source editor, github integrated. It's almost like a dream.
 - `Radio-t <http://radio-t.com/>`_ podcast.
 - `Apple <http://www.apple.com/>`_ computers.
-- .. raw:: html
-
-    <p><s>I think i like this posterous.</s>
-    Not any more. Coz it looks like they abandon it.<p>
-
-
 - `Sublime text 2 <http://www.sublimetext.com/2>`_ - AWESOME text editor (for three major platform.)
+- `Grooveshark <http://grooveshark.com>`_ - awesome music app. Also available different radios.
+- `Jango <http://jango.com>`_ - another awesome music app. Here you can create your own radio.
+- `Do It Tomorrow! <http://tomorrow.do>`_ - 'Can't get to it today? Push it off to tomorrow!'. Best planning app.
 
 I think i need to make separate list of pretty good radio station that i like to hear. So i create it :-).
 

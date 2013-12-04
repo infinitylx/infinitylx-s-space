@@ -1,7 +1,17 @@
 {% if article.tags %}
 <br/>
-{#<span class="label">Tags</span>#}
-{%- for tag in article.tags %}
-	&nbsp;&nbsp;<a href="{{ SITEURL }}/{{ tag.url }}" class="label"><i class="icon-tag"></i>&nbsp;{{ tag }}</a>
-{% endfor %}
+<table class="table-condensed">
+  <tr>
+    <td>
+      <h3><i class="icon-tags icon-large"></i></h3>
+    </td>
+    <td>
+      <ul class="unstyled">
+      {%- for tag in article.tags %}
+	<li><a href="{{ SITEURL }}/{{ tag.url }}" class="label">{{ tag }}</a></li>
+      {% endfor %}
+      </ul>
+    </td>
+  </tr>
+</table>
 {% endif %}

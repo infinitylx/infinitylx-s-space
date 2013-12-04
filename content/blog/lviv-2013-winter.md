@@ -3,7 +3,7 @@ Date: 2013-01-30 10:20
 Tags: alpha-centauri
 Category: blog
 Author: Wladislaw Merezhko
-Summary: Скляні дерева у львові. Багато фоток.
+Summary: Glass trees in lwow.
 
 Ось як виглядають "скляні" дерева на солнці у Львові.
 
