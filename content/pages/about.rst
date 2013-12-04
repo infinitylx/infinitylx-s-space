@@ -21,7 +21,7 @@ Also you can *hire* me.
 
 .. raw:: html
 
-    <p>You can <a href="/pages/curriculum-vitae.html">read <i class="icon-external-link"></i></a> and <a href="/static/images/WladyslawMerezhko.pdf">download <i class="icon-external-link"></i></a> my CV in pdf.</p>
+    <p>You can <a href="/pages/curriculum-vitae.html">read <i class="icon-external-link"></i></a> and <a href="/static/images/WladyslawMerezhko_cv.pdf">download <i class="icon-external-link"></i></a> my CV in pdf.</p>
 
 This site proudly powered by `Pelican <http://pelican.notmyidea.org/>`_, which takes great advantage of `Python <http://python.org>`_.
 
