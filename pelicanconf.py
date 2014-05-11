@@ -10,7 +10,7 @@ PDF_GENERATOR = False  # FIXME: fix links workaround in rst2pdf
 
 TIMEZONE = 'Europe/Kiev'
 
-PLUGIN_PATH = 'pelican-plugins'
+PLUGIN_PATH = 'pp'
 PLUGINS = ['sitemap', 'gzip_cache']
 
 DEFAULT_LANG = 'en'
