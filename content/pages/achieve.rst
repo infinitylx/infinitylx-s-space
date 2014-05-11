@@ -2,24 +2,27 @@
 Achieve
 =======
 
-- continue to travel abroad
-- earn more money
-- learn finally English
-- learn finally German
+- Continue to travel abroad
 - .. raw:: html
 
-    <p><s>learn java (both SE and EE)</s> it's borring</p>
+    <p><s>Learn finally English</s></p>
+
+- Learn finally German
+- .. raw:: html
+
+    <p><s>Learn java (both SE and EE)</s> it's borring</p>
 
 - .. raw:: html
 
-    <p><s>became senior</s></p>
+    <p><s>Became senior</s></p>
 
-- покататись на сноуборді
-- записати подкаст (?)
+- Покататись на сноуборді
+- Створити подкаст
 - Створити власний бізнес
 - IronMan (not movie but contest)
-- Ride bike
+- .. raw:: html
+
+    <p><s>Ride bike</s></p>
 - See north lights
-- Learn scuba diving
-- to see a Norwhal
-- to walk by the glacier 
+- See a Norwhal
+- Walk by the glacier

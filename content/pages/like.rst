@@ -18,8 +18,8 @@ Like
 
 I think i need to make separate list of pretty good radio station that i like to hear. So i create it :-).
 
-Wlads Radio List:
------------------
+Onlie Radio's List:
+-------------------
 
 - `"Radio Złote Przeboje Klasyka Rocka" <http://fm.tuba.pl/stacja-radiowa/Z%C5%82ote+Przeboje+Klasyka+Rocka>`_
 - `"Heavy metal attack!" <http://www.heavymetalattack.pl/>`_
