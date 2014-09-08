@@ -62,4 +62,4 @@ YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
 
 FEED = 'feeds/all.rss.xml'
 FEED_ATOM = 'feeds/all.rss.xml'
-FEED_RSS = 'feeds/all.rss.xml'
+
