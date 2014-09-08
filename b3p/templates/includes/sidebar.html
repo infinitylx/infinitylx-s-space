@@ -9,6 +9,9 @@
                     </a></li>
                 {% endfor %}
             {% endif %}
+            {% if FEED_ALL_RSS %}
+                <li class="list-group-item"><a href="{{ SITEURL }}/{{ FEED_ALL_RSS }}" rel="alternate"><i class="icon-bookmark icon-large"></i>atom feed</a></li>
+            {% endif %}
 
             {# Uncomment if you want to show Categories #}
 
