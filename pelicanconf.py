@@ -29,9 +29,9 @@ LINKS = (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('FB', '#'),
-          ('Twit me', '#'),
-          ('Flicker', '#'),)
+SOCIAL = (('Facebook', '#'),
+          ('Twitter', '#infinitylx'),
+          ('Flickr', '#'),)
 
 DEFAULT_PAGINATION = 10
 STATIC_PATHS = ["pictures", "images"]
