@@ -58,3 +58,6 @@ SITEMAP = {
 
 MONTH_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/{date:%b}/index.html'
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
+
+
+FEED = 'feeds/all.rss.xml'
